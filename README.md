@@ -20,6 +20,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Community Projects
 
+- [nawiq7208/rwid-git](https://github.com/nawiq7208/rwid-git)
 - **and more...**
 
 ## License
